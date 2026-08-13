@@ -3,4 +3,4 @@
 English: A desktop companion-AI prototype that unifies companionship and utility on one shared context engine — architecturally far-sighted, but still one "last mile" short of closing its core loops (evolution and memory quality control).
 
 
-![Uploading image.png…]()
+
